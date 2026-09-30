@@ -7,6 +7,7 @@ for Slackware 15.0. Not an official SlackBuilds.org repository.
 
 | Package | Version | Status |
 | --- | --- | --- |
+| [duf](system/duf/) | 0.9.1 | In development |
 | [peektea](system/peektea/) | 0.2.1 | Not submitted to SBo |
 
 Read each package's `README` and `.info` for dependencies and sources.

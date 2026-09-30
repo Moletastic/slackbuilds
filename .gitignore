@@ -31,5 +31,6 @@
 /packages/
 *.log
 
-# peektea binary, if built directly in its recipe directory.
+# Binaries, if built directly in their recipe directories.
+/system/duf/duf
 /system/peektea/peektea
