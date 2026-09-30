@@ -1,0 +1,35 @@
+# Upstream source downloads and generated vendor/submission archives.
+# Publish vendor archives as release assets, not in Git history.
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lz
+*.tar.lzma
+*.tar.zst
+*.zip
+*.7z
+
+# Built Slackware packages.
+*.tgz
+*.txz
+*.tbz
+*.tbz2
+*.tlz
+
+# Editor backups and undo files.
+*.un~
+*.swp
+*.swo
+*.swn
+*~
+
+# Repository-local build, download, and validation directories.
+/build/
+/dist/
+/sources/
+/packages/
+*.log
+
+# peektea binary, if built directly in its recipe directory.
+/system/peektea/peektea
