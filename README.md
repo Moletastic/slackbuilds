@@ -9,7 +9,7 @@ for Slackware 15.0. Not an official SlackBuilds.org repository.
 | --- | --- | --- |
 | [duf](system/duf/) | 0.9.1 | Submitted to SBo; pending review |
 | [peektea](system/peektea/) | 0.2.1 | Approved by SBo; awaiting publication |
-| [superfile](system/superfile/) | 1.6.0 | Ready for submission |
+| [superfile](system/superfile/) | 1.6.0 | Submitted to SBo; pending review |
 
 Read each package's `README` and `.info` for dependencies and sources.
 See the [SBo HOWTO](https://slackbuilds.org/howto/) for build instructions.
