@@ -34,3 +34,4 @@
 # Binaries, if built directly in their recipe directories.
 /system/duf/duf
 /system/peektea/peektea
+/system/superfile/spf
