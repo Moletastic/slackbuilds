@@ -32,7 +32,6 @@
 *.log
 
 # Binaries, if built directly in their recipe directories.
-/system/duf/duf
 /office/csvlens/csvlens
 /office/csvlens/target/
 /system/duf/duf
