@@ -33,5 +33,13 @@
 
 # Binaries, if built directly in their recipe directories.
 /system/duf/duf
+/office/csvlens/csvlens
+/office/csvlens/target/
+/system/duf/duf
 /system/peektea/peektea
+/system/pueue/pueue
+/system/pueue/pueued
+/system/pueue/target/
 /system/superfile/spf
+/development/gitui/gitui
+/development/gitui/target/
