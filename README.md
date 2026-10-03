@@ -1,7 +1,9 @@
 # Moletastic's SlackBuilds
 
-Personal SlackBuilds maintained by [Moletastic](https://github.com/Moletastic)
-for Slackware 15.0. Not an official SlackBuilds.org repository.
+I maintain SlackBuild recipes for Slackware 15.0 as
+[Moletastic](https://github.com/Moletastic). Published packages below are
+my contributions to [SlackBuilds.org](https://slackbuilds.org/).
+This is a personal repository, not an official SBo mirror.
 
 ## Packages
 
