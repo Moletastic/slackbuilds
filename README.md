@@ -15,6 +15,7 @@ for Slackware 15.0. Not an official SlackBuilds.org repository.
 | [superfile](system/superfile/) | 1.6.0 | Published in SBo repository |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | 3.5.1 | Published in SBo repository |
 | [ttf-nerd-fonts-monoid](system/ttf-nerd-fonts-monoid/) | 3.5.1 | Published in SBo repository |
+| [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | 154.0.8037.92_1 | Submitted to SBo; pending review |
 
 Read each package's `README` and `.info` for dependencies and sources.
 See the [SBo HOWTO](https://slackbuilds.org/howto/) for build instructions.
