@@ -18,7 +18,7 @@ This is a personal repository, not an official SBo mirror.
 | [superfile](system/superfile/) | 1.6.0 | [Published](https://slackbuilds.org/repository/15.0/system/superfile/) |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-jetbrains-mono/) |
 | [ttf-nerd-fonts-monoid](system/ttf-nerd-fonts-monoid/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-monoid/) |
-| [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | 154.0.8037.92_1 | Submitted |
+| [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | 154.0.8037.92_1 | Ready |
 
 Status: Development (local work), Submitted (awaiting review), Ready (accepted
 for the next SBo update), Published (available in SBo).
