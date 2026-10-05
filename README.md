@@ -15,6 +15,7 @@ This is a personal repository, not an official SBo mirror.
 | [gitui](development/gitui/) | 0.28.1 | Development |
 | [gpufetch](system/gpufetch/) | 0.25 | Submitted |
 | [lazydocker](system/lazydocker/) | 0.25.2 | Ready |
+| [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | 3.5.1 | Submitted |
 | [peektea](system/peektea/) | 0.2.1 | [Published](https://slackbuilds.org/repository/15.0/system/peektea/) |
 | [pueue](system/pueue/) | 4.0.4 | [Published](https://slackbuilds.org/repository/15.0/system/pueue/) |
 | [superfile](system/superfile/) | 1.6.0 | [Published](https://slackbuilds.org/repository/15.0/system/superfile/) |
