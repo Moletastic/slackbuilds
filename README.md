@@ -10,7 +10,7 @@ This is a personal repository, not an official SBo mirror.
 | Package | Version | Status |
 | --- | --- | --- |
 | [cpufetch](system/cpufetch/) | 1.07 | Ready |
-| [csvlens](office/csvlens/) | 0.15.1 | Development |
+| [csvlens](office/csvlens/) | 0.15.1 | Submitted |
 | [duf](system/duf/) | 0.9.1 | [Published](https://slackbuilds.org/repository/15.0/system/duf/) |
 | [gitui](development/gitui/) | 0.28.1 | Development |
 | [gpufetch](system/gpufetch/) | 0.25 | Submitted |
