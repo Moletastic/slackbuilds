@@ -13,6 +13,7 @@ This is a personal repository, not an official SBo mirror.
 | [csvlens](office/csvlens/) | 0.15.1 | Development |
 | [duf](system/duf/) | 0.9.1 | [Published](https://slackbuilds.org/repository/15.0/system/duf/) |
 | [gitui](development/gitui/) | 0.28.1 | Development |
+| [gpufetch](system/gpufetch/) | 0.25 | Submitted |
 | [lazydocker](system/lazydocker/) | 0.25.2 | Ready |
 | [peektea](system/peektea/) | 0.2.1 | [Published](https://slackbuilds.org/repository/15.0/system/peektea/) |
 | [pueue](system/pueue/) | 4.0.4 | [Published](https://slackbuilds.org/repository/15.0/system/pueue/) |
