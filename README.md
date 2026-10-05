@@ -19,6 +19,7 @@ This is a personal repository, not an official SBo mirror.
 | [peektea](system/peektea/) | 0.2.1 | [Published](https://slackbuilds.org/repository/15.0/system/peektea/) |
 | [pueue](system/pueue/) | 4.0.4 | [Published](https://slackbuilds.org/repository/15.0/system/pueue/) |
 | [superfile](system/superfile/) | 1.6.0 | [Published](https://slackbuilds.org/repository/15.0/system/superfile/) |
+| [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | 3.5.1 | Submitted |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-jetbrains-mono/) |
 | [ttf-nerd-fonts-monoid](system/ttf-nerd-fonts-monoid/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-monoid/) |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | 154.0.8037.92_1 | Ready |
