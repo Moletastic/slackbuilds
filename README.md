@@ -24,7 +24,7 @@ This is a personal repository, not an official SBo mirror.
 | [ttf-nerd-fonts-martian-mono](system/ttf-nerd-fonts-martian-mono/) | 3.5.1 | Ready |
 | [ttf-nerd-fonts-monoid](system/ttf-nerd-fonts-monoid/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-monoid/) |
 | [ttf-nerd-fonts-mononoki](system/ttf-nerd-fonts-mononoki/) | 3.5.1 | Ready |
-| [ttf-nerd-fonts-ubuntu-mono](system/ttf-nerd-fonts-ubuntu-mono/) | 3.5.1 | Submitted |
+| [ttf-nerd-fonts-ubuntu-mono](system/ttf-nerd-fonts-ubuntu-mono/) | 3.5.1 | Ready |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | 154.0.8037.92_1 | Ready |
 | [yazi](system/yazi/) | 26.9.1 | Submitted |
 
