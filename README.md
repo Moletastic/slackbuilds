@@ -27,7 +27,7 @@ This is a personal repository, not an official SBo mirror.
 | [ttf-nerd-fonts-mononoki](system/ttf-nerd-fonts-mononoki/) | 3.5.1 | Ready |
 | [ttf-nerd-fonts-ubuntu-mono](system/ttf-nerd-fonts-ubuntu-mono/) | 3.5.1 | Ready |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | 154.0.8037.92_1 | Ready |
-| [yazi](system/yazi/) | 26.9.1 | Submitted |
+| [yazi](system/yazi/) | 26.9.1 | Ready |
 
 Status: Development (local work), Submitted (awaiting review), Ready (accepted
 for the next SBo update), Published (available in SBo).
