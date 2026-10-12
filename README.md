@@ -18,6 +18,7 @@ This is a personal repository, not an official SBo mirror.
 | [just](development/just/) | 1.58.0 | Submitted |
 | [kew](audio/kew/) | 4.3.8 | [Published](https://slackbuilds.org/repository/15.0/audio/kew/) |
 | [lazydocker](system/lazydocker/) | 0.25.2 | [Published](https://slackbuilds.org/repository/15.0/system/lazydocker/) |
+| [lefthook](development/lefthook/) | 2.2.1 | Submitted |
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) |
 | [peektea](system/peektea/) | 0.2.1 | [Published](https://slackbuilds.org/repository/15.0/system/peektea/) |
 | [pueue](system/pueue/) | 4.0.4 | [Published](https://slackbuilds.org/repository/15.0/system/pueue/) |
