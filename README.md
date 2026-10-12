@@ -14,6 +14,7 @@ This is a personal repository, not an official SBo mirror.
 | [duf](system/duf/) | 0.9.1 | [Published](https://slackbuilds.org/repository/15.0/system/duf/) |
 | [gitui](development/gitui/) | 0.28.1 | [Published](https://slackbuilds.org/repository/15.0/development/gitui/) |
 | [gpufetch](system/gpufetch/) | 0.25 | [Published](https://slackbuilds.org/repository/15.0/system/gpufetch/) |
+| [just](development/just/) | 1.58.0 | Submitted |
 | [kew](audio/kew/) | 4.3.8 | [Published](https://slackbuilds.org/repository/15.0/audio/kew/) |
 | [lazydocker](system/lazydocker/) | 0.25.2 | [Published](https://slackbuilds.org/repository/15.0/system/lazydocker/) |
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) |
