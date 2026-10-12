@@ -9,6 +9,7 @@ This is a personal repository, not an official SBo mirror.
 
 | Package | Version | Status |
 | --- | --- | --- |
+| [air](development/air/) | 1.67.4 | Submitted |
 | [cpufetch](system/cpufetch/) | 1.07 | [Published](https://slackbuilds.org/repository/15.0/system/cpufetch/) |
 | [csvlens](office/csvlens/) | 0.15.1 | [Published](https://slackbuilds.org/repository/15.0/office/csvlens/) |
 | [duf](system/duf/) | 0.9.1 | [Published](https://slackbuilds.org/repository/15.0/system/duf/) |
