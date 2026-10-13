@@ -13,7 +13,7 @@ This is a personal repository, not an official SBo mirror.
 | [cpufetch](system/cpufetch/) | 1.07 | [Published](https://slackbuilds.org/repository/15.0/system/cpufetch/) |
 | [csvlens](office/csvlens/) | 0.15.1 | [Published](https://slackbuilds.org/repository/15.0/office/csvlens/) |
 | [duf](system/duf/) | 0.9.1 | [Published](https://slackbuilds.org/repository/15.0/system/duf/) |
-| [gitleaks](development/gitleaks/) | 8.30.1 | Submitted |
+| [gitleaks](development/gitleaks/) | 8.30.1 | Ready |
 | [gitui](development/gitui/) | 0.28.1 | [Published](https://slackbuilds.org/repository/15.0/development/gitui/) |
 | [gpufetch](system/gpufetch/) | 0.25 | [Published](https://slackbuilds.org/repository/15.0/system/gpufetch/) |
 | [just](development/just/) | 1.58.0 | Submitted |
