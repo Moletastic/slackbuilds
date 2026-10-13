@@ -24,6 +24,7 @@ This is a personal repository, not an official SBo mirror.
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) |
 | [peektea](system/peektea/) | 0.2.1 | [Published](https://slackbuilds.org/repository/15.0/system/peektea/) |
 | [pueue](system/pueue/) | 4.0.4 | [Published](https://slackbuilds.org/repository/15.0/system/pueue/) |
+| [revive](development/revive/) | 1.17.1 | Submitted |
 | [slides](office/slides/) | 0.9.0 | Ready |
 | [superfile](system/superfile/) | 1.6.0 | [Published](https://slackbuilds.org/repository/15.0/system/superfile/) |
 | [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-firacode/) |
