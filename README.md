@@ -16,7 +16,7 @@ This is a personal repository, not an official SBo mirror.
 | [gitleaks](development/gitleaks/) | 8.30.1 | Ready |
 | [gitui](development/gitui/) | 0.28.1 | [Published](https://slackbuilds.org/repository/15.0/development/gitui/) |
 | [gpufetch](system/gpufetch/) | 0.25 | [Published](https://slackbuilds.org/repository/15.0/system/gpufetch/) |
-| [just](development/just/) | 1.58.0 | Submitted |
+| [just](development/just/) | 1.58.0 | Ready |
 | [kew](audio/kew/) | 4.3.8 | [Published](https://slackbuilds.org/repository/15.0/audio/kew/) |
 | [kubeconform](development/kubeconform/) | 0.8.0 | Submitted |
 | [lazydocker](system/lazydocker/) | 0.25.2 | [Published](https://slackbuilds.org/repository/15.0/system/lazydocker/) |
