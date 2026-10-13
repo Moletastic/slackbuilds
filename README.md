@@ -18,6 +18,7 @@ This is a personal repository, not an official SBo mirror.
 | [gpufetch](system/gpufetch/) | 0.25 | [Published](https://slackbuilds.org/repository/15.0/system/gpufetch/) |
 | [just](development/just/) | 1.58.0 | Submitted |
 | [kew](audio/kew/) | 4.3.8 | [Published](https://slackbuilds.org/repository/15.0/audio/kew/) |
+| [kubeconform](development/kubeconform/) | 0.8.0 | Submitted |
 | [lazydocker](system/lazydocker/) | 0.25.2 | [Published](https://slackbuilds.org/repository/15.0/system/lazydocker/) |
 | [lefthook](development/lefthook/) | 2.2.1 | Submitted |
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) |
