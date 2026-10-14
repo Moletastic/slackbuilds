@@ -22,6 +22,7 @@ This is a personal repository, not an official SBo mirror.
 | [lazydocker](system/lazydocker/) | 0.25.2 | [Published](https://slackbuilds.org/repository/15.0/system/lazydocker/) |
 | [lefthook](development/lefthook/) | 2.2.1 | Ready |
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) |
+| [osv-scanner](development/osv-scanner/) | 2.7.0 | Submitted |
 | [peektea](system/peektea/) | 0.2.1 | [Published](https://slackbuilds.org/repository/15.0/system/peektea/) |
 | [pueue](system/pueue/) | 4.0.4 | [Published](https://slackbuilds.org/repository/15.0/system/pueue/) |
 | [revive](development/revive/) | 1.17.1 | Submitted |
