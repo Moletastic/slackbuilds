@@ -18,7 +18,8 @@
       ],
       "matchStrings": [
         "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"[^\"]*\"\\s+DOWNLOAD=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)",
-        "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)\"\\s+DOWNLOAD=\"UNSUPPORTED\""
+        "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)\"\\s+DOWNLOAD=\"UNSUPPORTED\"",
+        "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"[^\"]*\"\\s+DOWNLOAD=\"UNSUPPORTED\"\\s+MD5SUM=\"[^\"]*\"\\s+DOWNLOAD_x86_64=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)"
       ],
       "datasourceTemplate": "github-tags",
       "versioningTemplate": "loose"
