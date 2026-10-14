@@ -1,0 +1,36 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "enabledManagers": ["custom.regex"],
+  "dependencyDashboard": true,
+  "dependencyDashboardApproval": true,
+  "dependencyDashboardTitle": "SlackBuilds - Upstream Updates",
+  "automerge": false,
+  "ignoreUnstable": true,
+  "ignorePaths": [
+    "**/ungoogled-chromium-bin.info"
+  ],
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": [
+        "/\\.info$/"
+      ],
+      "matchStrings": [
+        "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"[^\"]*\"\\s+DOWNLOAD=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)",
+        "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)\"\\s+DOWNLOAD=\"UNSUPPORTED\""
+      ],
+      "datasourceTemplate": "github-tags",
+      "versioningTemplate": "loose"
+    }
+  ],
+
+  "packageRules": [
+    {
+      "matchPackageNames": [
+        "ryanoasis/nerd-fonts"
+      ],
+      "groupName": "Nerd Fonts"
+    }
+  ]
+}
