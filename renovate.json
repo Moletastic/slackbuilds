@@ -1,6 +1,20 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended"
+  "extends": ["config:recommended"],
+  "enabledManagers": ["custom.regex"],
+  "dependencyDashboard": true,
+  "dependencyDashboardApproval": true,
+  "dependencyDashboardTitle": "SlackBuilds - Upstream Updates",
+  "automerge": false,
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/\\.info$/"],
+      "matchStrings": [
+        "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)"
+      ],
+      "datasourceTemplate": "github-releases",
+      "versioningTemplate": "loose"
+    }
   ]
 }
