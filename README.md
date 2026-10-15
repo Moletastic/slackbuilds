@@ -29,6 +29,7 @@ This is a personal repository, not an official SBo mirror.
 | [revive](development/revive/) | 1.17.1 | Submitted |
 | [slides](office/slides/) | 0.9.0 | Ready |
 | [superfile](system/superfile/) | 1.6.0 | [Published](https://slackbuilds.org/repository/15.0/system/superfile/) |
+| [syft](development/syft/) | 1.54.1 | Submitted |
 | [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-firacode/) |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-jetbrains-mono/) |
 | [ttf-nerd-fonts-martian-mono](system/ttf-nerd-fonts-martian-mono/) | 3.5.1 | [Published](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-martian-mono/) |
