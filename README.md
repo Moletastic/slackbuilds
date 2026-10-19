@@ -18,7 +18,7 @@ This is a personal repository, not an official SBo mirror.
 | [gpufetch](system/gpufetch/) | GPU information for the terminal | [GitHub](https://github.com/Dr-Noob/gpufetch) | 0.25 | [0.25](https://slackbuilds.org/repository/15.0/system/gpufetch/) | Published | - |
 | [just](development/just/) | Project command runner | [GitHub](https://github.com/casey/just) | 1.58.0 | [1.58.0](https://slackbuilds.org/repository/15.0/development/just/) | Published | - |
 | [kew](audio/kew/) | Terminal music player | [Website](https://kewplayer.com) | 4.4.1 | [4.4.1](https://slackbuilds.org/repository/15.0/audio/kew/) | Published | - |
-| [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [GitHub](https://github.com/stackrox/kube-linter) | 0.8.3 | - | Submitted | - |
+| [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [GitHub](https://github.com/stackrox/kube-linter) | 0.8.3 | [0.8.3](https://slackbuilds.org/repository/15.0/development/kube-linter/) | Published | - |
 | [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [GitHub](https://github.com/yannh/kubeconform) | 0.8.0 | - | Submitted | - |
 | [lazydocker](system/lazydocker/) | Terminal interface for Docker | [GitHub](https://github.com/jesseduffield/lazydocker) | 0.25.2 | [0.25.2](https://slackbuilds.org/repository/15.0/system/lazydocker/) | Published | - |
 | [lefthook](development/lefthook/) | Project Git hooks manager | [Docs](https://lefthook.dev/) | 2.2.1 | - | Ready | - |
