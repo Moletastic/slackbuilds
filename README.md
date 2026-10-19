@@ -29,7 +29,7 @@ This is a personal repository, not an official SBo mirror.
 | [revive](development/revive/) | Configurable Go source linter | [GitHub](https://github.com/revive-lint/revive) | 1.17.1 | [1.17.1](https://slackbuilds.org/repository/15.0/development/revive/) | Published | - |
 | [slides](office/slides/) | Markdown presentations in the terminal | [GitHub](https://github.com/maaslalani/slides) | 0.9.0 | [0.9.0](https://slackbuilds.org/repository/15.0/office/slides/) | Published | - |
 | [superfile](system/superfile/) | Multi-panel terminal file manager | [GitHub](https://github.com/yorukot/superfile) | 1.6.0 | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | Published | - |
-| [syft](development/syft/) | Software Bill of Materials generator | [GitHub](https://github.com/anchore/syft) | 1.54.1 | - | Submitted | - |
+| [syft](development/syft/) | Software Bill of Materials generator | [GitHub](https://github.com/anchore/syft) | 1.54.1 | [1.54.1](https://slackbuilds.org/repository/15.0/development/syft/) | Published | - |
 | [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | Fira Code with Nerd Fonts icons | [Website](https://www.nerdfonts.com/) | 3.5.1 | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-firacode/) | Published | - |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | JetBrains Mono with Nerd Fonts icons | [Website](https://www.nerdfonts.com/) | 3.5.1 | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-jetbrains-mono/) | Published | - |
 | [ttf-nerd-fonts-martian-mono](system/ttf-nerd-fonts-martian-mono/) | Martian Mono with Nerd Fonts icons | [Website](https://www.nerdfonts.com/) | 3.5.1 | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-martian-mono/) | Published | - |
@@ -46,6 +46,8 @@ Status: Development (local work), Submitted (awaiting review), Ready (accepted
 for the next SBo update), Published (available in SBo). Published packages keep
 their status while Update tracks Development, Submitted, or Ready for a new
 recipe revision. A dash means no published version or no update, respectively.
+
+SBo status checked: 2026-10-19.
 
 Read each package's `README` and `.info` for dependencies and sources.
 See the [SBo HOWTO](https://slackbuilds.org/howto/) for build instructions.
