@@ -21,7 +21,7 @@ This is a personal repository, not an official SBo mirror.
 | [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [GitHub](https://github.com/stackrox/kube-linter) | 0.8.3 | [0.8.3](https://slackbuilds.org/repository/15.0/development/kube-linter/) | Published | - |
 | [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [GitHub](https://github.com/yannh/kubeconform) | 0.8.0 | [0.8.0](https://slackbuilds.org/repository/15.0/development/kubeconform/) | Published | - |
 | [lazydocker](system/lazydocker/) | Terminal interface for Docker | [GitHub](https://github.com/jesseduffield/lazydocker) | 0.25.2 | [0.25.2](https://slackbuilds.org/repository/15.0/system/lazydocker/) | Published | - |
-| [lefthook](development/lefthook/) | Project Git hooks manager | [Docs](https://lefthook.dev/) | 2.2.1 | - | Ready | - |
+| [lefthook](development/lefthook/) | Project Git hooks manager | [Docs](https://lefthook.dev/) | 2.2.1 | [2.2.1](https://slackbuilds.org/repository/15.0/development/lefthook/) | Published | - |
 | [osv-scanner](development/osv-scanner/) | Project dependency vulnerability scanner | [Docs](https://google.github.io/osv-scanner/) | 2.7.0 | - | Submitted | - |
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | Hermit with Nerd Fonts icons | [Website](https://www.nerdfonts.com/) | 3.5.1 | [3.5.1](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) | Published | - |
 | [peektea](system/peektea/) | Minimal terminal file browser | [GitHub](https://github.com/lovestaco/peektea) | 0.2.1 | [0.2.1](https://slackbuilds.org/repository/15.0/system/peektea/) | Published | - |
