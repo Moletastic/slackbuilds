@@ -13,7 +13,7 @@ This is a personal repository, not an official SBo mirror.
 | [cpufetch](system/cpufetch/) | CPU information for the terminal | [GitHub](https://github.com/Dr-Noob/cpufetch) | 1.07 | [1.07](https://slackbuilds.org/repository/15.0/system/cpufetch/) | Published | - |
 | [csvlens](office/csvlens/) | Interactive terminal CSV viewer | [GitHub](https://github.com/YS-L/csvlens) | 0.15.1 | [0.15.1](https://slackbuilds.org/repository/15.0/office/csvlens/) | Published | - |
 | [duf](system/duf/) | Disk usage and free space | [GitHub](https://github.com/muesli/duf) | 0.9.1 | [0.9.1](https://slackbuilds.org/repository/15.0/system/duf/) | Published | - |
-| [gitleaks](development/gitleaks/) | Detect secrets in code and history | [GitHub](https://github.com/gitleaks/gitleaks) | 8.30.1 | - | Ready | - |
+| [gitleaks](development/gitleaks/) | Detect secrets in code and history | [GitHub](https://github.com/gitleaks/gitleaks) | 8.30.1 | [8.30.1](https://slackbuilds.org/repository/15.0/development/gitleaks/) | Published | - |
 | [gitui](development/gitui/) | Terminal interface for Git | [GitHub](https://github.com/gitui-org/gitui) | 0.28.1 | [0.28.1](https://slackbuilds.org/repository/15.0/development/gitui/) | Published | - |
 | [gpufetch](system/gpufetch/) | GPU information for the terminal | [GitHub](https://github.com/Dr-Noob/gpufetch) | 0.25 | [0.25](https://slackbuilds.org/repository/15.0/system/gpufetch/) | Published | - |
 | [just](development/just/) | Project command runner | [GitHub](https://github.com/casey/just) | 1.58.0 | - | Ready | - |
