@@ -26,7 +26,7 @@ This is a personal repository, not an official SBo mirror.
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | Hermit with Nerd Fonts icons | [Website](https://www.nerdfonts.com/) | 3.5.1 | [3.5.1](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) | Published | - |
 | [peektea](system/peektea/) | Minimal terminal file browser | [GitHub](https://github.com/lovestaco/peektea) | 0.2.1 | [0.2.1](https://slackbuilds.org/repository/15.0/system/peektea/) | Published | - |
 | [pueue](system/pueue/) | Queue and manage shell commands | [GitHub](https://github.com/Nukesor/pueue) | 4.0.4 | [4.0.4](https://slackbuilds.org/repository/15.0/system/pueue/) | Published | - |
-| [revive](development/revive/) | Configurable Go source linter | [GitHub](https://github.com/revive-lint/revive) | 1.17.1 | - | Submitted | - |
+| [revive](development/revive/) | Configurable Go source linter | [GitHub](https://github.com/revive-lint/revive) | 1.17.1 | [1.17.1](https://slackbuilds.org/repository/15.0/development/revive/) | Published | - |
 | [slides](office/slides/) | Markdown presentations in the terminal | [GitHub](https://github.com/maaslalani/slides) | 0.9.0 | - | Ready | - |
 | [superfile](system/superfile/) | Multi-panel terminal file manager | [GitHub](https://github.com/yorukot/superfile) | 1.6.0 | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | Published | - |
 | [syft](development/syft/) | Software Bill of Materials generator | [GitHub](https://github.com/anchore/syft) | 1.54.1 | - | Submitted | - |
