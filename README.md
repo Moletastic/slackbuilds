@@ -19,7 +19,7 @@ This is a personal repository, not an official SBo mirror.
 | [just](development/just/) | Project command runner | [GitHub](https://github.com/casey/just) | 1.58.0 | [1.58.0](https://slackbuilds.org/repository/15.0/development/just/) | Published | - |
 | [kew](audio/kew/) | Terminal music player | [Website](https://kewplayer.com) | 4.4.1 | [4.4.1](https://slackbuilds.org/repository/15.0/audio/kew/) | Published | - |
 | [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [GitHub](https://github.com/stackrox/kube-linter) | 0.8.3 | [0.8.3](https://slackbuilds.org/repository/15.0/development/kube-linter/) | Published | - |
-| [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [GitHub](https://github.com/yannh/kubeconform) | 0.8.0 | - | Submitted | - |
+| [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [GitHub](https://github.com/yannh/kubeconform) | 0.8.0 | [0.8.0](https://slackbuilds.org/repository/15.0/development/kubeconform/) | Published | - |
 | [lazydocker](system/lazydocker/) | Terminal interface for Docker | [GitHub](https://github.com/jesseduffield/lazydocker) | 0.25.2 | [0.25.2](https://slackbuilds.org/repository/15.0/system/lazydocker/) | Published | - |
 | [lefthook](development/lefthook/) | Project Git hooks manager | [Docs](https://lefthook.dev/) | 2.2.1 | - | Ready | - |
 | [osv-scanner](development/osv-scanner/) | Project dependency vulnerability scanner | [Docs](https://google.github.io/osv-scanner/) | 2.7.0 | - | Submitted | - |
