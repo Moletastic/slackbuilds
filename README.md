@@ -42,11 +42,6 @@ This is a personal repository, not an official SBo mirror.
 Recipe is the local version; SBo links to the published version and recipe.
 Packaging-only updates show the BUILD revision when needed.
 
-Status: Development (local work), Submitted (awaiting review), Ready (accepted
-for the next SBo update), Published (available in SBo). Published packages keep
-their status while Update tracks Development, Submitted, or Ready for a new
-recipe revision. A dash means no published version or no update, respectively.
-
 SBo status checked: 2026-10-19.
 
 Read each package's `README` and `.info` for dependencies and sources.
