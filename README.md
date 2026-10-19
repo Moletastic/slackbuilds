@@ -9,7 +9,7 @@ This is a personal repository, not an official SBo mirror.
 
 | Package | Description | Upstream | Recipe | SBo | Status | Update |
 | --- | --- | --- | --- | --- | --- | --- |
-| [air](development/air/) | Live reload for Go applications | [GitHub](https://github.com/air-verse/air) | 1.67.4 | - | Ready | - |
+| [air](development/air/) | Live reload for Go applications | [GitHub](https://github.com/air-verse/air) | 1.67.4 | [1.67.4](https://slackbuilds.org/repository/15.0/development/air/) | Published | - |
 | [cpufetch](system/cpufetch/) | CPU information for the terminal | [GitHub](https://github.com/Dr-Noob/cpufetch) | 1.07 | [1.07](https://slackbuilds.org/repository/15.0/system/cpufetch/) | Published | - |
 | [csvlens](office/csvlens/) | Interactive terminal CSV viewer | [GitHub](https://github.com/YS-L/csvlens) | 0.15.1 | [0.15.1](https://slackbuilds.org/repository/15.0/office/csvlens/) | Published | - |
 | [duf](system/duf/) | Disk usage and free space | [GitHub](https://github.com/muesli/duf) | 0.9.1 | [0.9.1](https://slackbuilds.org/repository/15.0/system/duf/) | Published | - |
