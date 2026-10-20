@@ -16,6 +16,7 @@ This is a personal repository, not an official SBo mirror.
 | [gitleaks](development/gitleaks/) | Detect secrets in code and history | [8.30.1](https://slackbuilds.org/repository/15.0/development/gitleaks/) | - | [GitHub](https://github.com/gitleaks/gitleaks) |
 | [gitui](development/gitui/) | Terminal interface for Git | [0.28.1](https://slackbuilds.org/repository/15.0/development/gitui/) | - | [GitHub](https://github.com/gitui-org/gitui) |
 | [gpufetch](system/gpufetch/) | GPU information for the terminal | [0.25](https://slackbuilds.org/repository/15.0/system/gpufetch/) | - | [GitHub](https://github.com/Dr-Noob/gpufetch) |
+| [grype](development/grype/) | Container and filesystem vulnerability scanner | - | 0.120.1 · Submitted | [GitHub](https://github.com/anchore/grype) |
 | [just](development/just/) | Project command runner | [1.58.0](https://slackbuilds.org/repository/15.0/development/just/) | - | [GitHub](https://github.com/casey/just) |
 | [kew](audio/kew/) | Terminal music player | [4.4.1](https://slackbuilds.org/repository/15.0/audio/kew/) | - | [Website](https://kewplayer.com) |
 | [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [0.8.3](https://slackbuilds.org/repository/15.0/development/kube-linter/) | - | [GitHub](https://github.com/stackrox/kube-linter) |
