@@ -46,8 +46,6 @@ This is a personal repository, not an official SBo mirror.
 SBo links to the published version and recipe.
 Packaging-only updates show the BUILD revision when needed.
 
-SBo status checked: 2026-10-19.
-
 Read each package's `README` and `.info` for dependencies and sources.
 See the [SBo HOWTO](https://slackbuilds.org/howto/) for build instructions.
 
