@@ -15,6 +15,7 @@ This is a personal repository, not an official SBo mirror.
 | [duf](system/duf/) | Disk usage and free space | [0.9.1](https://slackbuilds.org/repository/15.0/system/duf/) | - | [GitHub](https://github.com/muesli/duf) |
 | [gitleaks](development/gitleaks/) | Detect secrets in code and history | [8.30.1](https://slackbuilds.org/repository/15.0/development/gitleaks/) | - | [GitHub](https://github.com/gitleaks/gitleaks) |
 | [gitui](development/gitui/) | Terminal interface for Git | [0.28.1](https://slackbuilds.org/repository/15.0/development/gitui/) | - | [GitHub](https://github.com/gitui-org/gitui) |
+| [go-crap](development/go-crap/) | Go complexity and coverage analysis | - | 0.5.1 · Submitted | [GitHub](https://github.com/padiazg/go-crap) |
 | [gpufetch](system/gpufetch/) | GPU information for the terminal | [0.25](https://slackbuilds.org/repository/15.0/system/gpufetch/) | - | [GitHub](https://github.com/Dr-Noob/gpufetch) |
 | [grype](development/grype/) | Container and filesystem vulnerability scanner | - | 0.120.1 · Submitted | [GitHub](https://github.com/anchore/grype) |
 | [just](development/just/) | Project command runner | [1.58.0](https://slackbuilds.org/repository/15.0/development/just/) | - | [GitHub](https://github.com/casey/just) |
