@@ -39,6 +39,7 @@ This is a personal repository, not an official SBo mirror.
 | [ttf-nerd-fonts-mononoki](system/ttf-nerd-fonts-mononoki/) | Mononoki with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-mononoki/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-ubuntu-mono](system/ttf-nerd-fonts-ubuntu-mono/) | Ubuntu Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-ubuntu-mono/) | - | [Website](https://www.nerdfonts.com/) |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | Prebuilt Chromium without Google services | [154.0.8037.92_1](https://slackbuilds.org/repository/15.0/network/ungoogled-chromium-bin/) | - | [GitHub](https://github.com/ungoogled-software/ungoogled-chromium) |
+| [yamllint](development/yamllint/) | YAML syntax and style checker | - | 1.37.1 · Submitted | [Docs](https://yamllint.readthedocs.io/) |
 | [yazi](system/yazi/) | Asynchronous terminal file manager | [26.9.1](https://slackbuilds.org/repository/15.0/system/yazi/) | - | [Docs](https://yazi-rs.github.io) |
 
 SBo links to the published version and recipe.
