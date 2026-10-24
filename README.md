@@ -30,6 +30,7 @@ This is a personal repository, not an official SBo mirror.
 | [ouch](system/ouch/) | Compress, decompress, and list archives | [0.8.3](https://slackbuilds.org/repository/15.0/system/ouch/) | - | [GitHub](https://github.com/ouch-org/ouch) |
 | [peektea](system/peektea/) | Minimal terminal file browser | [0.2.1](https://slackbuilds.org/repository/15.0/system/peektea/) | - | [GitHub](https://github.com/lovestaco/peektea) |
 | [pueue](system/pueue/) | Queue and manage shell commands | [4.0.4](https://slackbuilds.org/repository/15.0/system/pueue/) | - | [GitHub](https://github.com/Nukesor/pueue) |
+| [python3-uc-micro-py](python/python3-uc-micro-py/) | Unicode character data as regular expressions | - | 1.0.3 · Submitted | [GitHub](https://github.com/tsutsu3/uc.micro-py) |
 | [revive](development/revive/) | Configurable Go source linter | [1.17.1](https://slackbuilds.org/repository/15.0/development/revive/) | - | [GitHub](https://github.com/revive-lint/revive) |
 | [slides](office/slides/) | Markdown presentations in the terminal | [0.9.0](https://slackbuilds.org/repository/15.0/office/slides/) | - | [GitHub](https://github.com/maaslalani/slides) |
 | [superfile](system/superfile/) | Multi-panel terminal file manager | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | - | [GitHub](https://github.com/yorukot/superfile) |
