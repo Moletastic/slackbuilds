@@ -12,6 +12,7 @@ This is a personal repository, not an official SBo mirror.
 | [air](development/air/) | Live reload for Go applications | [1.67.4](https://slackbuilds.org/repository/15.0/development/air/) | - | [GitHub](https://github.com/air-verse/air) |
 | [cpufetch](system/cpufetch/) | CPU information for the terminal | [1.07](https://slackbuilds.org/repository/15.0/system/cpufetch/) | - | [GitHub](https://github.com/Dr-Noob/cpufetch) |
 | [csvlens](office/csvlens/) | Interactive terminal CSV viewer | [0.15.1](https://slackbuilds.org/repository/15.0/office/csvlens/) | - | [GitHub](https://github.com/YS-L/csvlens) |
+| [dbmate](development/dbmate/) | Framework-independent database migration tool | - | 2.37.0 · Submitted | [GitHub](https://github.com/amacneil/dbmate) |
 | [duf](system/duf/) | Disk usage and free space | [0.9.1](https://slackbuilds.org/repository/15.0/system/duf/) | - | [GitHub](https://github.com/muesli/duf) |
 | [gitleaks](development/gitleaks/) | Detect secrets in code and history | [8.30.1](https://slackbuilds.org/repository/15.0/development/gitleaks/) | - | [GitHub](https://github.com/gitleaks/gitleaks) |
 | [gitui](development/gitui/) | Terminal interface for Git | [0.28.1](https://slackbuilds.org/repository/15.0/development/gitui/) | - | [GitHub](https://github.com/gitui-org/gitui) |
