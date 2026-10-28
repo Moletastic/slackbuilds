@@ -39,7 +39,7 @@ This is a personal repository, not an official SBo mirror.
 | [serie](development/serie/) | Graphical Git history in the terminal | - | 0.10.1 · Submitted | [GitHub](https://github.com/lusingander/serie) |
 | [slides](office/slides/) | Markdown presentations in the terminal | [0.9.0](https://slackbuilds.org/repository/15.0/office/slides/) | - | [GitHub](https://github.com/maaslalani/slides) |
 | [superfile](system/superfile/) | Multi-panel terminal file manager | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | - | [GitHub](https://github.com/yorukot/superfile) |
-| [syft](development/syft/) | Software Bill of Materials generator | [1.54.1](https://slackbuilds.org/repository/15.0/development/syft/) | - | [GitHub](https://github.com/anchore/syft) |
+| [syft](development/syft/) | Software Bill of Materials generator | [1.54.1](https://slackbuilds.org/repository/15.0/development/syft/) | 1.55.0 · Submitted | [GitHub](https://github.com/anchore/syft) |
 | [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | Fira Code with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-firacode/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | JetBrains Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-jetbrains-mono/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-martian-mono](system/ttf-nerd-fonts-martian-mono/) | Martian Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-martian-mono/) | - | [Website](https://www.nerdfonts.com/) |
