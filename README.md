@@ -28,6 +28,7 @@ This is a personal repository, not an official SBo mirror.
 | [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [0.8.0](https://slackbuilds.org/repository/15.0/development/kubeconform/) | - | [GitHub](https://github.com/yannh/kubeconform) |
 | [lazydocker](system/lazydocker/) | Terminal interface for Docker | [0.25.2](https://slackbuilds.org/repository/15.0/system/lazydocker/) | - | [GitHub](https://github.com/jesseduffield/lazydocker) |
 | [lefthook](development/lefthook/) | Project Git hooks manager | [2.2.1](https://slackbuilds.org/repository/15.0/development/lefthook/) | 2.2.2 · Submitted | [Docs](https://lefthook.dev/) |
+| [mise](development/mise/) | Development tools, environments, and tasks | - | 2026.10.8 · Submitted | [Docs](https://mise.jdx.dev) |
 | [osv-scanner](development/osv-scanner/) | Project dependency vulnerability scanner | [2.7.0](https://slackbuilds.org/repository/15.0/development/osv-scanner/) | - | [Docs](https://google.github.io/osv-scanner/) |
 | [otf-nerd-fonts-hermit](system/otf-nerd-fonts-hermit/) | Hermit with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/otf-nerd-fonts-hermit/) | - | [Website](https://www.nerdfonts.com/) |
 | [ouch](system/ouch/) | Compress, decompress, and list archives | [0.8.3](https://slackbuilds.org/repository/15.0/system/ouch/) | - | [GitHub](https://github.com/ouch-org/ouch) |
