@@ -22,7 +22,7 @@ This is a personal repository, not an official SBo mirror.
 | [gping](network/gping/) | Ping times graphed in the terminal | [1.21.0](https://slackbuilds.org/repository/15.0/network/gping/) | - | [GitHub](https://github.com/orf/gping) |
 | [grype](development/grype/) | Container and filesystem vulnerability scanner | [0.120.1](https://slackbuilds.org/repository/15.0/development/grype/) | 0.121.0 · Submitted | [GitHub](https://github.com/anchore/grype) |
 | [hexyl](system/hexyl/) | Colored hex viewer for the terminal | - | 0.17.0 · Submitted | [GitHub](https://github.com/sharkdp/hexyl) |
-| [just](development/just/) | Project command runner | [1.58.0](https://slackbuilds.org/repository/15.0/development/just/) | - | [GitHub](https://github.com/casey/just) |
+| [just](development/just/) | Project command runner | [1.58.0](https://slackbuilds.org/repository/15.0/development/just/) | 1.59.0 · Submitted | [GitHub](https://github.com/casey/just) |
 | [kew](audio/kew/) | Terminal music player | [4.4.1](https://slackbuilds.org/repository/15.0/audio/kew/) | - | [Website](https://kewplayer.com) |
 | [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [0.8.3](https://slackbuilds.org/repository/15.0/development/kube-linter/) | - | [GitHub](https://github.com/stackrox/kube-linter) |
 | [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [0.8.0](https://slackbuilds.org/repository/15.0/development/kubeconform/) | - | [GitHub](https://github.com/yannh/kubeconform) |
