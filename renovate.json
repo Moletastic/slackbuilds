@@ -11,8 +11,7 @@
     {
       "customType": "regex",
       "managerFilePatterns": [
-        "/\\.info$/",
-        "!/^system\\/ungoogled-chromium-bin\\/ungoogled-chromium-bin\\.info$/"
+        "**/!(ungoogled-chromium-bin).info"
       ],
       "matchStrings": [
         "VERSION=\"(?<currentValue>[^\"]+)\"\\s+HOMEPAGE=\"[^\"]*\"\\s+DOWNLOAD=\"https://github\\.com/(?<depName>[^/\\s\"]+/[^/\\s\"]+)",
