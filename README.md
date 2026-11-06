@@ -17,6 +17,7 @@ This is a personal repository, not an official SBo mirror.
 | [gitleaks](development/gitleaks/) | Detect secrets in code and history | [8.30.1](https://slackbuilds.org/repository/15.0/development/gitleaks/) | - | [GitHub](https://github.com/gitleaks/gitleaks) |
 | [gitui](development/gitui/) | Terminal interface for Git | [0.28.1](https://slackbuilds.org/repository/15.0/development/gitui/) | - | [GitHub](https://github.com/gitui-org/gitui) |
 | [go-crap](development/go-crap/) | Go complexity and coverage analysis | [0.5.1](https://slackbuilds.org/repository/15.0/development/go-crap/) | - | [GitHub](https://github.com/padiazg/go-crap) |
+| [go-size-analyzer](development/go-size-analyzer/) | Compiled Go binary size analysis | - | 1.14.1 · Submitted | [GitHub](https://github.com/Zxilly/go-size-analyzer) |
 | [govulncheck](development/govulncheck/) | Go source and binary vulnerability scanner | [1.9.0](https://slackbuilds.org/repository/15.0/development/govulncheck/) | - | [Docs](https://go.dev/security/vuln/) |
 | [gping](network/gping/) | Ping times graphed in the terminal | [1.21.0](https://slackbuilds.org/repository/15.0/network/gping/) | - | [GitHub](https://github.com/orf/gping) |
 | [gpufetch](system/gpufetch/) | GPU information for the terminal | [0.25](https://slackbuilds.org/repository/15.0/system/gpufetch/) | - | [GitHub](https://github.com/Dr-Noob/gpufetch) |
