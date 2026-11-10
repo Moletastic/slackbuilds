@@ -54,6 +54,7 @@ This is a personal repository, not an official SBo mirror.
 | [ttf-noto-sans-syriac-western](system/ttf-noto-sans-syriac-western/) | Serto font for the Syriac script | - | 3.001 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
 | [ttf-noto-sans-syriac-eastern](system/ttf-noto-sans-syriac-eastern/) | Madnhaya font for the Syriac script | - | 3.001 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
 | [ttf-noto-sans-syriac](system/ttf-noto-sans-syriac/) | Estrangela font for the Syriac script | - | 3.000 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
+| [trivy](development/trivy/) | Comprehensive security scanner | - | 0.76.2 · Submitted | [GitHub](https://github.com/aquasecurity/trivy) |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | Prebuilt Chromium without Google services | [154.0.8037.92_1](https://slackbuilds.org/repository/15.0/network/ungoogled-chromium-bin/) | - | [GitHub](https://github.com/ungoogled-software/ungoogled-chromium) |
 | [unipicker](system/unipicker/) | Command-line Unicode character picker | - | 2.0.1 · Submitted | [GitHub](https://github.com/jeremija/unipicker) |
 | [yamllint](development/yamllint/) | YAML syntax and style checker | [1.37.1](https://slackbuilds.org/repository/15.0/development/yamllint/) | - | [Docs](https://yamllint.readthedocs.io/) |
