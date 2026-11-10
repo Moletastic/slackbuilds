@@ -50,6 +50,7 @@ This is a personal repository, not an official SBo mirror.
 | [ttf-nerd-fonts-monoid](system/ttf-nerd-fonts-monoid/) | Monoid with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-monoid/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-mononoki](system/ttf-nerd-fonts-mononoki/) | Mononoki with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-mononoki/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-ubuntu-mono](system/ttf-nerd-fonts-ubuntu-mono/) | Ubuntu Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-ubuntu-mono/) | - | [Website](https://www.nerdfonts.com/) |
+| [ttf-noto-sans-syriac](system/ttf-noto-sans-syriac/) | Estrangela font for the Syriac script | - | 3.000 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | Prebuilt Chromium without Google services | [154.0.8037.92_1](https://slackbuilds.org/repository/15.0/network/ungoogled-chromium-bin/) | - | [GitHub](https://github.com/ungoogled-software/ungoogled-chromium) |
 | [unipicker](system/unipicker/) | Command-line Unicode character picker | - | 2.0.1 · Submitted | [GitHub](https://github.com/jeremija/unipicker) |
 | [yamllint](development/yamllint/) | YAML syntax and style checker | [1.37.1](https://slackbuilds.org/repository/15.0/development/yamllint/) | - | [Docs](https://yamllint.readthedocs.io/) |
