@@ -46,16 +46,16 @@ This is a personal repository, not an official SBo mirror.
 | [slides](office/slides/) | Markdown presentations in the terminal | [0.9.0](https://slackbuilds.org/repository/15.0/office/slides/) | - | [GitHub](https://github.com/maaslalani/slides) |
 | [superfile](system/superfile/) | Multi-panel terminal file manager | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | - | [GitHub](https://github.com/yorukot/superfile) |
 | [syft](development/syft/) | Software Bill of Materials generator | [1.55.0](https://slackbuilds.org/repository/15.0/development/syft/) | - | [GitHub](https://github.com/anchore/syft) |
+| [trivy](development/trivy/) | Comprehensive security scanner | - | 0.76.2 · Submitted | [GitHub](https://github.com/aquasecurity/trivy) |
 | [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | Fira Code with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-firacode/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-jetbrains-mono](system/ttf-nerd-fonts-jetbrains-mono/) | JetBrains Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-jetbrains-mono/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-martian-mono](system/ttf-nerd-fonts-martian-mono/) | Martian Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-martian-mono/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-monoid](system/ttf-nerd-fonts-monoid/) | Monoid with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-monoid/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-mononoki](system/ttf-nerd-fonts-mononoki/) | Mononoki with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-mononoki/) | - | [Website](https://www.nerdfonts.com/) |
 | [ttf-nerd-fonts-ubuntu-mono](system/ttf-nerd-fonts-ubuntu-mono/) | Ubuntu Mono with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-ubuntu-mono/) | - | [Website](https://www.nerdfonts.com/) |
-| [ttf-noto-sans-syriac-western](system/ttf-noto-sans-syriac-western/) | Serto font for the Syriac script | - | 3.001 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
-| [ttf-noto-sans-syriac-eastern](system/ttf-noto-sans-syriac-eastern/) | Madnhaya font for the Syriac script | - | 3.001 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
 | [ttf-noto-sans-syriac](system/ttf-noto-sans-syriac/) | Estrangela font for the Syriac script | - | 3.000 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
-| [trivy](development/trivy/) | Comprehensive security scanner | - | 0.76.2 · Submitted | [GitHub](https://github.com/aquasecurity/trivy) |
+| [ttf-noto-sans-syriac-eastern](system/ttf-noto-sans-syriac-eastern/) | Madnhaya font for the Syriac script | - | 3.001 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
+| [ttf-noto-sans-syriac-western](system/ttf-noto-sans-syriac-western/) | Serto font for the Syriac script | - | 3.001 · Submitted | [GitHub](https://github.com/notofonts/syriac) |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | Prebuilt Chromium without Google services | [154.0.8037.92_1](https://slackbuilds.org/repository/15.0/network/ungoogled-chromium-bin/) | - | [GitHub](https://github.com/ungoogled-software/ungoogled-chromium) |
 | [unipicker](system/unipicker/) | Command-line Unicode character picker | - | 2.0.1 · Submitted | [GitHub](https://github.com/jeremija/unipicker) |
 | [yamllint](development/yamllint/) | YAML syntax and style checker | [1.37.1](https://slackbuilds.org/repository/15.0/development/yamllint/) | - | [Docs](https://yamllint.readthedocs.io/) |
