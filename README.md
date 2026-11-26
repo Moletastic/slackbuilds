@@ -29,7 +29,7 @@ This is a personal repository, not an official SBo mirror.
 | [just](development/just/) | Project command runner | [1.59.0](https://slackbuilds.org/repository/15.0/development/just/) | - | [GitHub](https://github.com/casey/just) |
 | [kew](audio/kew/) | Terminal music player | [4.4.1](https://slackbuilds.org/repository/15.0/audio/kew/) | 4.4.2 · Submitted | [Website](https://kewplayer.com) |
 | [kube-linter](development/kube-linter/) | Kubernetes manifest security linter | [0.8.3](https://slackbuilds.org/repository/15.0/development/kube-linter/) | - | [GitHub](https://github.com/stackrox/kube-linter) |
-| [kube-score](development/kube-score/) | Kubernetes deployment security and reliability checks | - | 1.20.0 · Submitted | [GitHub](https://github.com/zegl/kube-score) |
+| [kube-score](development/kube-score/) | Kubernetes deployment security and reliability checks | [1.20.0](https://slackbuilds.org/repository/15.0/development/kube-score/) | - | [GitHub](https://github.com/zegl/kube-score) |
 | [kubeconform](development/kubeconform/) | Kubernetes manifest schema validator | [0.8.0](https://slackbuilds.org/repository/15.0/development/kubeconform/) | - | [GitHub](https://github.com/yannh/kubeconform) |
 | [kubesec](development/kubesec/) | Kubernetes manifest security analyzer | - | 2.15.0 · Submitted | [Website](https://kubesec.io/) |
 | [lazydocker](system/lazydocker/) | Terminal interface for Docker | [0.25.2](https://slackbuilds.org/repository/15.0/system/lazydocker/) | - | [GitHub](https://github.com/jesseduffield/lazydocker) |
