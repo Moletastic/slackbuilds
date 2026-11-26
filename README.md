@@ -10,6 +10,7 @@ This is a personal repository, not an official SBo mirror.
 | Package | Description | SBo | In progress | Upstream |
 | --- | --- | --- | --- | --- |
 | [air](development/air/) | Live reload for Go applications | [1.67.4](https://slackbuilds.org/repository/15.0/development/air/) | - | [GitHub](https://github.com/air-verse/air) |
+| [cargo-audit](development/cargo-audit/) | Rust dependency vulnerability scanner | [0.23.0](https://slackbuilds.org/repository/15.0/development/cargo-audit/) | - | [Website](https://rustsec.org) |
 | [cpufetch](system/cpufetch/) | CPU information for the terminal | [1.07](https://slackbuilds.org/repository/15.0/system/cpufetch/) | - | [GitHub](https://github.com/Dr-Noob/cpufetch) |
 | [csvlens](office/csvlens/) | Interactive terminal CSV viewer | [0.15.1](https://slackbuilds.org/repository/15.0/office/csvlens/) | - | [GitHub](https://github.com/YS-L/csvlens) |
 | [dbmate](development/dbmate/) | Framework-independent database migration tool | [2.37.0](https://slackbuilds.org/repository/15.0/development/dbmate/) | 2.38.2 · Submitted | [GitHub](https://github.com/amacneil/dbmate) |
