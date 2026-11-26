@@ -57,7 +57,7 @@ This is a personal repository, not an official SBo mirror.
 | [ttf-noto-sans-syriac-eastern](system/ttf-noto-sans-syriac-eastern/) | Madnhaya font for the Syriac script | [3.001](https://slackbuilds.org/repository/15.0/system/ttf-noto-sans-syriac-eastern/) | - | [Website](https://notofonts.github.io/syriac/) |
 | [ttf-noto-sans-syriac-western](system/ttf-noto-sans-syriac-western/) | Serto font for the Syriac script | [3.001](https://slackbuilds.org/repository/15.0/system/ttf-noto-sans-syriac-western/) | - | [Website](https://notofonts.github.io/syriac/) |
 | [ungoogled-chromium-bin](system/ungoogled-chromium-bin/) | Prebuilt Chromium without Google services | [154.0.8037.92_1](https://slackbuilds.org/repository/15.0/network/ungoogled-chromium-bin/) | - | [GitHub](https://github.com/ungoogled-software/ungoogled-chromium) |
-| [unipicker](system/unipicker/) | Command-line Unicode character picker | - | 2.0.1 · Submitted | [GitHub](https://github.com/jeremija/unipicker) |
+| [unipicker](system/unipicker/) | Command-line Unicode character picker | [2.0.1](https://slackbuilds.org/repository/15.0/system/unipicker/) | - | [GitHub](https://github.com/jeremija/unipicker) |
 | [yamllint](development/yamllint/) | YAML syntax and style checker | [1.37.1](https://slackbuilds.org/repository/15.0/development/yamllint/) | - | [Docs](https://yamllint.readthedocs.io/) |
 | [yazi](system/yazi/) | Asynchronous terminal file manager | [26.9.1](https://slackbuilds.org/repository/15.0/system/yazi/) | - | [Docs](https://yazi-rs.github.io) |
 
