@@ -44,7 +44,7 @@ This is a personal repository, not an official SBo mirror.
 | [revive](development/revive/) | Configurable Go source linter | [1.17.1](https://slackbuilds.org/repository/15.0/development/revive/) | - | [GitHub](https://github.com/revive-lint/revive) |
 | [serie](development/serie/) | Graphical Git history in the terminal | [0.10.1](https://slackbuilds.org/repository/15.0/development/serie/) | - | [GitHub](https://github.com/lusingander/serie) |
 | [slides](office/slides/) | Markdown presentations in the terminal | [0.9.0](https://slackbuilds.org/repository/15.0/office/slides/) | - | [GitHub](https://github.com/maaslalani/slides) |
-| [superfile](system/superfile/) | Multi-panel terminal file manager | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | - | [GitHub](https://github.com/yorukot/superfile) |
+| [superfile](system/superfile/) | Multi-panel terminal file manager | [1.6.0](https://slackbuilds.org/repository/15.0/system/superfile/) | 1.6.1 · Submitted | [GitHub](https://github.com/yorukot/superfile) |
 | [syft](development/syft/) | Software Bill of Materials generator | [1.55.0](https://slackbuilds.org/repository/15.0/development/syft/) | - | [GitHub](https://github.com/anchore/syft) |
 | [trivy](development/trivy/) | Comprehensive security scanner | [0.76.2](https://slackbuilds.org/repository/15.0/development/trivy/) | - | [Website](https://trivy.dev) |
 | [ttf-nerd-fonts-firacode](system/ttf-nerd-fonts-firacode/) | Fira Code with Nerd Fonts icons | [3.5.1](https://slackbuilds.org/repository/15.0/system/ttf-nerd-fonts-firacode/) | - | [Website](https://www.nerdfonts.com/) |
